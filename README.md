@@ -8,3 +8,5 @@
 
 !.[Challenge 4 School Type](https://github.com/lrovira/School_District_Analysis/blob/master/Challenge%204%20School%20type.png)
 
+!.[Challenge 4 School spending](https://github.com/lrovira/School_District_Analysis/blob/master/Challenge%204%20Spending.png)
+
